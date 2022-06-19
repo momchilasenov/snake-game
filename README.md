@@ -1,2 +1,2 @@
 # Snake
-A simple Snake game built with C#
+Snake game built with C#
